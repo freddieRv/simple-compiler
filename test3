@@ -1,0 +1,38 @@
+
+so linux
+arq *
+
+funcion func(cadena a, booleano c) regresa entero
+inicio
+    caracter cc
+
+    para i := 0 hasta i <= 10 haz inicio
+        si (z >= j) entonces inicio
+            escribe(a + b)
+        fin sino inicio
+            escribe(a - b)
+        fin
+    fin
+fin
+
+main() inicio
+
+    real a
+    entero j := 2 * "3" / a, i := a y b
+    c1 := 3 * b
+
+    verifica(var) inicio
+        caso "sdv" inicio
+            escribe(b)
+        fin
+        caso "jghbn" inicio
+            escribe(c)
+        fin
+        no_caso inicio
+            escribe("ño")
+        fin
+    fin
+
+    lee(c)
+
+fin

@@ -1,0 +1,90 @@
+
+so linux
+arq *
+
+funcion func(cadena a, booleano c) regresa entero
+inicio
+    caracter cc
+
+    para i := 0 hasta i <= 10 haz inicio
+        si (z >= j) entonces inicio
+            escribe(a + b)
+        fin sino inicio
+            escribe(a - b)
+        fin
+    fin
+fin
+
+funcion printsomthn() regresa real
+inicio
+    escribe("HOLIIIIIIII")
+fin
+
+main() inicio
+
+    /*func(a, b, "AD")
+
+    entero j := 2 * 3 / (a - 1), i := a y b
+
+    para i := 0 hasta i <= 10 haz inicio
+        si (z >= j) entonces inicio
+            escribe(a + b)
+        fin sino inicio
+            escribe(a - b)
+        fin
+    fin*/
+
+    /*verifica(var) inicio
+        caso "sdv" inicio
+            escribe(b)
+        fin
+        caso "jghbn" inicio
+            escribe(c)
+        fin
+        no_caso inicio
+            escribe("ño")
+        fin
+    fin
+
+    si (z >= j) entonces inicio
+        escribe(a + b)
+    fin sino inicio
+        escribe(a - b)
+    fin
+
+    para i := 0 hasta i <= 10 haz inicio
+        escribe("ADFSDFDS")
+    fin
+
+    mientras 1 > 0 haz inicio
+        escribe(a - b)
+    fin*/
+
+    /*real a
+    entero j := 2 * "3" / a, i := a y b
+    c := 3 * b*/
+
+    //lee(c)
+
+    mientras 1 > 0 haz inicio
+        real a
+        escribe(a - b)
+    fin
+
+    /*mientras 1 > 0 haz inicio
+        x := 10 + 3 * 3 / a + z
+        x := 10
+        escribe(a - b)
+    fin*/
+
+    //func(a, b, "AD")
+    //printsomthn()
+    //real x, zz := 10 * 1.8
+
+    /*si (z >= j) entonces inicio
+        escribe(a + b)
+    fin sino inicio
+        escribe(a - b)
+    fin*/
+
+fin
